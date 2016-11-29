@@ -1,0 +1,11 @@
+Usage: node . <command>
+
+Examples:
+
+  node .        # Showing explanation
+  node . help   # Showing explanation
+  node . list   # Listing todo items
+  node . add    # Adding todo item
+  node . done   # Marking as done
+  node . undone # Marking item as undone
+  node . delete    # Deleting item
